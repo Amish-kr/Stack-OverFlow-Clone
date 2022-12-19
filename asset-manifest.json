@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Stack-OverFlow-Clone/static/css/main.a3da5a0d.css",
+    "main.js": "/Stack-OverFlow-Clone/static/js/main.5efeae98.js",
+    "static/media/bot.png": "/Stack-OverFlow-Clone/static/media/bot.957db4c8d51abd8c600d.png",
+    "static/media/Globe.svg": "/Stack-OverFlow-Clone/static/media/Globe.b4c9a5d99220d0b4e3024a8106e27c49.svg",
+    "index.html": "/Stack-OverFlow-Clone/index.html",
+    "static/media/search-solid.svg": "/Stack-OverFlow-Clone/static/media/search-solid.cc51b702c98798cd916ea5a3a8ca8b54.svg",
+    "static/media/pen-solid.svg": "/Stack-OverFlow-Clone/static/media/pen-solid.4b1bdc1c5a371fb72f1b580d52f8a87a.svg",
+    "static/media/blacklogo.svg": "/Stack-OverFlow-Clone/static/media/blacklogo.e25e45afbd5f299111eb2182aab6feca.svg",
+    "static/media/comment-alt-solid.svg": "/Stack-OverFlow-Clone/static/media/comment-alt-solid.7df3f00f8e0e47e451c3254d2d8c85c1.svg",
+    "static/media/sort-down.svg": "/Stack-OverFlow-Clone/static/media/sort-down.903eaa19f8ed510bf2202ab80dbea7d5.svg",
+    "static/media/sort-up.svg": "/Stack-OverFlow-Clone/static/media/sort-up.00d081851dcbaaf15930853fbdb312b6.svg",
+    "main.a3da5a0d.css.map": "/Stack-OverFlow-Clone/static/css/main.a3da5a0d.css.map",
+    "main.5efeae98.js.map": "/Stack-OverFlow-Clone/static/js/main.5efeae98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3da5a0d.css",
+    "static/js/main.5efeae98.js"
+  ]
+}
