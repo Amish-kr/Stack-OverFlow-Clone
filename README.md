@@ -15,4 +15,4 @@ do npm start in client folder.
 
 
 
-Then Open "http://localhost:3000/";
+Then Open "http://localhost:3000";
